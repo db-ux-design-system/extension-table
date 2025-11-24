@@ -1,2 +1,3 @@
-# extension-table
-DB UX Design System Extension Table - general and design specific issues
+# DB UX Design System: Extension Table
+
+We define the standards for tables within Deutsche Bahn.
